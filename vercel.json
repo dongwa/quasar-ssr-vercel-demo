@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "package.json",
-      "use": "vercel-quasar@2.0.0-beta.1"
+      "use": "vercel-quasar@2.0.0-beta.2"
     }
   ]
 }
